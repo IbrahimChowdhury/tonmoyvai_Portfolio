@@ -1,4 +1,6 @@
 
+@import 'https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Dancing+Script&family=IBM+Plex+Mono:ital@1&family=Lugrasimo&family=Montserrat&family=Open+Sans:wght@500&family=Red+Hat+Mono&family=Satisfy&family=Work+Sans:ital,wght@1,300&family=Ysabeau+Office&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Noto+Serif:wght@100&display=swap';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -20,7 +22,6 @@
   -webkit-text-size-adjust: 100%;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Dancing+Script&family=IBM+Plex+Mono:ital@1&family=Lugrasimo&family=Montserrat&family=Open+Sans:wght@500&family=Red+Hat+Mono&family=Satisfy&family=Work+Sans:ital,wght@1,300&family=Ysabeau+Office&display=swap');
 
 .dancingFont{
   font-family:'Dancing Script', cursive ;
@@ -55,7 +56,6 @@
 
 
 
-  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Noto+Serif:wght@100&display=swap');
 
   .notoSarif{
     font-family: 'Noto Serif', serif;
