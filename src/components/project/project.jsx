@@ -16,7 +16,7 @@ import ProjectCard from './projectCard';
 import axios from 'axios';
 
 
-const Project = () => {
+export default function ProjectComponent(){
 
     const [projectsData, setprojectsData] = useState([]);
 
@@ -50,4 +50,4 @@ const Project = () => {
     )
 }
 
-export default Project
+ 
