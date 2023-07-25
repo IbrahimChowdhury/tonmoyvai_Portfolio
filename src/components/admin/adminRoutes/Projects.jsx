@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { AddProject } from './projectsComponent/AddProject'
 import axios from 'axios';
-import ShowProjects from './projectsComponent/showProjects';
+import ShowProjects from './projectsComponent/ShowProjects';
 import { LongDialog } from './projectsComponent/LongDiaLogue';
 
 const Projects = () => {
