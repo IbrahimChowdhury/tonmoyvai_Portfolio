@@ -7,7 +7,7 @@ import Motivation from '../../components/motivation/motivation'
 
 import Blog from '../../components/blogs/blog'
 import Footer from '../../components/footer/Footer'
-import ProjectComponent from '../../components/project/Project'
+import ProjectComponent from '../../components/project/ProjectComponent'
 export default function RootLayout() {
   return (
     <div>
