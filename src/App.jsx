@@ -12,8 +12,7 @@ import Others from './components/admin/adminRoutes/Others'
 import AdminError from './components/admin/adminComponent/AdminError'
 import Layout from './routes/layout/Layout'
 import BlogRoute from './routes/blog/Blog'
-import ProjectsRoute from './routes/projects/projects'
-
+import ProjectsRoute from './routes/projects/Projects'
 const router=createBrowserRouter([
   {
     path:"/",

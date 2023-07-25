@@ -4,7 +4,7 @@ import HeadBanner from '../../components/header/HeadBanner'
 import Snowfall from 'react-snowfall'
 import snowImg from "../../assets/snowflake.png"
 import Motivation from '../../components/motivation/motivation'
-import Project from '../../components/project/project'
+import Project from '../../components/project/Project'
 import Blog from '../../components/blogs/blog'
 import Footer from '../../components/footer/Footer'
 export default function RootLayout() {
